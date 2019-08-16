@@ -1,0 +1,10 @@
+Introducción al curso
+¡Bienvenido al curso!
+
+En esta ocasión nos acompaña Santiago Carrillo, Google Developer Expert en Android con más de 7 años desarrollando aplicaciones nativas.
+
+Firebase es una plataforma de infraestructura para aplicaciones web y móviles. Nos facilita desarrollar nuestros productos sin tener que preocuparnos por la infraestructura.
+
+Autenticación: Este módulo te permite crear cuentas temporales las cuales pueden acceder a los datos protegidos con reglas de seguridad
+
+Cloud Firestore: Nos da una base de datos en tiempo real, no sincronizada, NoSQL y flexible a escalar a las diferentes configuraciones que quieras.
