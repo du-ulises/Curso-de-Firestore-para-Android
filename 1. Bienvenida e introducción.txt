@@ -8,3 +8,6 @@ Firebase es una plataforma de infraestructura para aplicaciones web y móviles. 
 Autenticación: Este módulo te permite crear cuentas temporales las cuales pueden acceder a los datos protegidos con reglas de seguridad
 
 Cloud Firestore: Nos da una base de datos en tiempo real, no sincronizada, NoSQL y flexible a escalar a las diferentes configuraciones que quieras.
+
+Configuración de Firebase para Android.
+Nuestro proyecto será CryptoTrader: una aplicación de criptomonedas que usará un servicio de autenticación y actualizará los datos de nuestras criptomonedas en tiempo real.
